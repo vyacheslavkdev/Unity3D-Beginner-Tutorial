@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="509589db-b549-437c-8500-6ab417b2fc3c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project3D Beginner Tutorial Resources/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project3D Beginner Tutorial Resources/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project3D Beginner Tutorial Resources/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project3D Beginner Tutorial Resources/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project3D Beginner Tutorial Resources/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project3D Beginner Tutorial Resources/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project3D Beginner Tutorial Resources/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project3D Beginner Tutorial Resources/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Material.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Material/BoardFloor.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Material/BoardFloor.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Material/StoneFloor.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Material/StoneFloor.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Material/WallMainRoom.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Material/WallMainRoom.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Room.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Room/LongCorridor.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Room/LongCorridor.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Room/MainRoom.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Room/MainRoom.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Room/PuzzleRoom1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Room/PuzzleRoom1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Room/PuzzleRoom2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Room/PuzzleRoom2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Room/PuzzleRoom3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Room/PuzzleRoom3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Scene.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Scene/Homework2Scene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Scene/Homework2Scene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Script.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Script/MoveController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Script/MoveController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Texture.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Texture/Stone_Texture_Albedo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Texture/Stone_Texture_Albedo.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Texture/Stone_Texture_Normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Texture/Stone_Texture_Normal.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Texture/Wall_MainRoom_Albedo.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Texture/Wall_MainRoom_Albedo.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Texture/Wall_MainRoom_Normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Homework2/Texture/Wall_MainRoom_Normal.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/New Terrain.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/New Terrain.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TutorialProject/Materials/Corridor/Wall_Corridor 1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TutorialProject/Materials/Corridor/Wall_Corridor 1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/03/03fe8649021afdc58672089bac7513a9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/04/041e78296857aa2009a00cb38547dff1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/05/05cd7cebc6e88e96d656534007da587b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/05/05eacd2152899b009eac92eaa89436f1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/07/0767ee0bf5909632cfab56296aaec400" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/07/07a1e3498b2484af336ece589ab3aa6d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/0c/0cc98a279a36f9da263229c439e63d19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/0f/0f266cb3e5ccb8a0e07a2ced2b689e6c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/26/260ce8b5a852989a355ca4534836fc43" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/30/30e2f3eb08681b3965046da3792b2f46" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/49/494aee753f1a083cba4be87dfcfd227a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/58/58377d0c11102afdf62850a66b8fce05" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/66/6677e8bc912effb79c5bcf62df167b04" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/75/7581041716738c619d312a697fa11796" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/7a/7acbb2ce90a4d432a18ba02442f21dfe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/86/86df3ff1cff6d9682dfa4e2ad087c043" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/95/9593b30d45a3a05ef2471364206d3f9c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/99/9933d5638f4287cb93f2a73e1e83de7d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/9e/9e2a1c852c78ec43a7bc2a83a0f8e5f5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/9e/9e8eca911b2f66ccb851955857c105e3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/a6/a68444129a610a389683fdb276197b4e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/a8/a8896b08ab10d756144ccfbd9408167f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/bd/bdfbcf6536053d180d566f2835eb9f89" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/c4/c4409cb778bb50f4fb202e54611fa1e2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/c5/c5987aec7740e3b869faca14a9315169" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/e1/e1e42d4f19aea1f7631c5b5cf7968e91" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/e8/e8608bd25c770d0c06af20b6c83fe314" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/e9/e9d4e1c3329f0d265fdf4fdc46ec1582" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/f4/f488a9111ad8691ec0ea3d5c6f528ec2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/f6/f689a8ac984a1db077c43a7392ee6618" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/f6/f6a5a6a429a87c9863bb132c22a25c6a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/fe/feed9806c32946f52d65cd4f96bcdc60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/EditorInstance.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/0/0292488ebfca8e700c4312fff85f248b.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/0/0308132e69489ad2d8a3f237bf0d4f3f.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/0/0f84c212632e3867b765bdb492bc8056.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/1/16a2b96ae16647d9bf46ed35038d4b7e.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/1/1d3c0f230fd0ed3c3df1161ab3911f34.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/2/2822013237db045f575607b27a2fcf63.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/2/2c80bc31c99ca0c98e75f7d6e943f2b3.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/2/2c83e382945ce860ad4488e62c067730.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/3/33df32f028535b662ab7cefedef47e6a.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/3/3b9071ef96933b33bbd30a0eba3176ed.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/3/3d68cb6df596a68c9a984475cb38e886.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/4/45dca590f67b14f52e179ec300e7a1ee.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/4/480d3cf8aaa24122f68dec9c6302d302.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/4/4b3655e438292c7c3028e02d8f7f66a6.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/4/4cae59169952ce343e1b1736ff59ac11.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/5/52a6a0f12c0c2332d4e523e01a56aa15.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/5/53a8d3961a563d4d461c39a1adecf0bc.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/5/57700d00ff55b8d0b68d945f2f004920.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/5/57973ce8d0a5873e2f971afa6a163b81.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/5/5d652d0e70e33befb3899af5ff50177d.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/6/69d0d6fa03b7dfd2d73c520d81058ff0.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/6/6b9efad67bc9cb78403906c88947434c.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/6/6c53b144086c2ed9ff9ababbcb1eb3f1.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/7/711df2c226fcd337b40131fa9dac669c.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/7/765c9b3cdd997e3ed98ebe0d1b9cf355.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/7/77affbaeee706ab21bd3b28b26940d79.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/7/7ff81508b4030d04d9039271dbef6bac.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/8/8209942be90118b5180f0aa0d493cdb6.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/8/8599b4543b5cac4784ececb1bfbf1acb.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/8/89f4e0b87953ed8c3f175ef79f0d4452.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/9/90528a1dbda27ca0c58bfb572011c4b4.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/9/940bcd9fc23d0fca346e73457a736b08.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/9/950150b845dfe5c74b5bd8b55389fbc0.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/9/97081100273cc88d3c198f0bd86392a2.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/9/9f26681f281cd695355cefb80b496e62.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/a/a4164a3a07d34ae82a31787bd03bbe55.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/b/b2baf0f82d0817fda92a1517179eff8c.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/b/b685a658d8ffa5b80cf1b442858b2213.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/b/bc59e5cd33347e9f570c1ee4130cf627.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/b/bd904e21b1b70c99e01b6145a3a931b5.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/c/c39a93f094d8729fb661064f529d960c.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/d/d2fc40c6da606e68926f3ee3927ad720.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/d/d420285e7ea5b0d5e4e4b2a19419b752.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/d/d4365598fa442f6ff7dc362efe75e2f5.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/d/d577cf6b98a748014d31301dae94cc01.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/d/d60725b7e885f69e202053431dcd9a29.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/d/da606ebc6b7dee6a1ec7d53c2c7bc25c.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/d/dc5a3bce28be1301a55f40a19adb831a.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/e/e32200e132e99ce45320bdc317768e21.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/e/e4bf5757e1cfdeb3a3cfd6af19c3775a.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/e/e53c53a41e33578b6e068e61aaeb4200.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/e/e75db1c11a28cedb07574339626168f6.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/e/e7afb90c42487b7601aa71b8b1a720e4.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/e/e94bdec5d2f09337d8ae09acb05a40c1.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/e/efe72432797adfa2062ebb03f141e542.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/f/f3fa59b627a3283811cf12a0e5dc6939.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/f/f7b2661130922dd57cad55535564921e.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/f/fbf72a13eae69d2a917f944eaedabe3a.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/f/ffd95562620fe4b615d3a440dbbfafac.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/cd58f3-44a326c175ecfd9488.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/b45330-44a326c175ecfd9488.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-18e65ff5d9653e1459ad87d232c85ac5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-288500fca58fd6e4f9f774dab1c8293a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-5e771133d2779124bb8e37840e2aeb15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-cc3855fcadd41804a81a276432139441" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/cd58f3-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/cd58f3-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/b45330-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/b45330-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/Library/expandedItems" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe4.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe4.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe5.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe5.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe6.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe6.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe7.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe7.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jpAvEZ0nwXAru4O0QUh6Xza0Zx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="509589db-b549-437c-8500-6ab417b2fc3c" name="Default Changelist" comment="" />
+      <created>1604490887814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604490887814</updated>
+      <workItem from="1604490891848" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Notifications" timestamp="1604490918254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1604490918254" />
+  </component>
+</project>
