@@ -62,6 +62,7 @@
      <Compile Include="Assets\Homework2\Script\KeyController.cs" />
      <Compile Include="Assets\Homework3\Script\Bomb.cs" />
      <Compile Include="Assets\Homework3\Script\BombTarget.cs" />
+     <Compile Include="Assets\Homework3\Script\GhostSpawn.cs" />
      <Compile Include="Assets\Homework3\Script\Turret.cs" />
      <Compile Include="Assets\Homework3\Script\TurretBullet.cs" />
      <Compile Include="Assets\Homework3\Script\TurretGun.cs" />

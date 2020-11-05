@@ -6,7 +6,11 @@ namespace UnityEngine
     {
         private void OnCollisionEnter(Collision other)
         {
-            other.gameObject.GetComponent<BombTarget>().Boom();
+            if (other.gameObject.GetComponent<BombTarget>() != null)
+            {
+                other.gameObject.GetComponent<BombTarget>().Boom();
+            }
+
             Destroy(gameObject);
         }
     }

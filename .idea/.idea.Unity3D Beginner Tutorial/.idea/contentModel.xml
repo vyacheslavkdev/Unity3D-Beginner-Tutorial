@@ -17,6 +17,7 @@
           <e p="Script" t="Include">
             <e p="Bomb.cs" t="Include" />
             <e p="BombTarget.cs" t="Include" />
+            <e p="GhostSpawn.cs" t="Include" />
             <e p="Turret.cs" t="Include" />
             <e p="TurretBullet.cs" t="Include" />
             <e p="TurretGun.cs" t="Include" />

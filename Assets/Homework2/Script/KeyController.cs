@@ -23,6 +23,13 @@ public class KeyController : MonoBehaviour
         MoveCheck();
         FireCheck();
         JumpCheck();
+        TurnCheck();
+    }
+
+    private void TurnCheck()
+    {
+        float mouseX = Input.GetAxis("Mouse X");
+        transform.Rotate(new Vector3(0, mouseX, 0));
     }
 
     private void JumpCheck()

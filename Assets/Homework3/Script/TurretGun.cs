@@ -8,6 +8,7 @@ namespace UnityEngine
         private const int ShootFrequency = 1;
 
         [SerializeField] private GameObject _bullet;
+        [SerializeField] private Transform _bulletStart;
         [SerializeField] private float _shootSpeed = 1.0f;
         private Transform _target;
 
@@ -40,9 +41,7 @@ namespace UnityEngine
             if (IsShootTime())
             {
                 _lastShootTime = Time.time;
-                Vector3 parentPosition = gameObject.transform.position;
-                Vector3 position = new Vector3(parentPosition.x + 1, parentPosition.y + 1.5f, parentPosition.z + 1);
-                GameObject bullet = Instantiate(_bullet, position, gameObject.transform.rotation);
+                GameObject bullet = Instantiate(_bullet, _bulletStart.position + new Vector3(0, 0, 1.0f), gameObject.transform.rotation);
                 TurretBullet turretBullet = bullet.GetComponent<TurretBullet>();
                 turretBullet.Attack(_target);
             }
@@ -56,7 +55,6 @@ namespace UnityEngine
             }
 
             float deltaTime = Time.time - _lastShootTime;
-            Debug.Log(deltaTime);
             
             return deltaTime >= ShootFrequency * _shootSpeed;
         }
