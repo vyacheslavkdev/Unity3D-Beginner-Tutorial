@@ -1,9 +1,9 @@
-﻿using System;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class KeyController : MonoBehaviour
 {
     [SerializeField] private GameObject _bullet;
+    [SerializeField] private GameObject _bomb;
     [SerializeField] private Transform _bulletStart;
     [SerializeField] private float _speed = 2.0f;
 
@@ -43,7 +43,11 @@ public class KeyController : MonoBehaviour
     {
         if (Input.GetButtonDown("Fire1"))
         {
-            Instantiate(_bullet, _bulletStart.position, _bulletStart.rotation);
+            Instantiate(_bullet, _bulletStart.position, _bullet.transform.rotation);
+        }
+        else if (Input.GetButtonDown("Fire2"))
+        {
+            Instantiate(_bomb, _bulletStart.position + new Vector3(0, 0, 1.0f), _bulletStart.rotation);
         }
     }
 
