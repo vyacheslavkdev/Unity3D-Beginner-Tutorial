@@ -13,6 +13,22 @@
             <e p="KeyController.cs" t="Include" />
           </e>
         </e>
+        <e p="Homework3" t="Include">
+          <e p="Script" t="Include">
+            <e p="Bomb.cs" t="Include" />
+            <e p="BombTarget.cs" t="Include" />
+            <e p="GhostSpawn.cs" t="Include" />
+            <e p="Turret.cs" t="Include" />
+            <e p="TurretBullet.cs" t="Include" />
+            <e p="TurretGun.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Homework4" t="Include">
+          <e p="Script" t="Include">
+            <e p="Puzzle.cs" t="Include" />
+            <e p="PuzzleItem.cs" t="Include" />
+          </e>
+        </e>
         <e p="TutorialProject" t="Include">
           <e p="3DBeginner_Third-PartyNotice.txt" t="Include" />
           <e p="Scripts" t="Include">
