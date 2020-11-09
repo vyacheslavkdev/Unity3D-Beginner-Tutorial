@@ -66,6 +66,8 @@
      <Compile Include="Assets\Homework3\Script\Turret.cs" />
      <Compile Include="Assets\Homework3\Script\TurretBullet.cs" />
      <Compile Include="Assets\Homework3\Script\TurretGun.cs" />
+     <Compile Include="Assets\Homework4\Script\Puzzle.cs" />
+     <Compile Include="Assets\Homework4\Script\PuzzleItem.cs" />
      <Compile Include="Assets\TutorialProject\Scripts\GameEnding.cs" />
      <Compile Include="Assets\TutorialProject\Scripts\LightFlicker.cs" />
      <Compile Include="Assets\TutorialProject\Scripts\Observer.cs" />

@@ -23,6 +23,12 @@
             <e p="TurretGun.cs" t="Include" />
           </e>
         </e>
+        <e p="Homework4" t="Include">
+          <e p="Script" t="Include">
+            <e p="Puzzle.cs" t="Include" />
+            <e p="PuzzleItem.cs" t="Include" />
+          </e>
+        </e>
         <e p="TutorialProject" t="Include">
           <e p="3DBeginner_Third-PartyNotice.txt" t="Include" />
           <e p="Scripts" t="Include">
